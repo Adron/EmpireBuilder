@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectFiles", "ProjectFile
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomeCar", "DomeCar\DomeCar.csproj", "{8D1FA881-FD07-4F8C-A969-D43516D8F09E}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Funit", "Funit\Funit.fsproj", "{DC4DD77F-A8EE-423E-83B7-500DC24BF57A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +27,14 @@ Global
 		{E3E8209F-9618-43E0-8B5F-A4130712CA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3E8209F-9618-43E0-8B5F-A4130712CA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3E8209F-9618-43E0-8B5F-A4130712CA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D1FA881-FD07-4F8C-A969-D43516D8F09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1FA881-FD07-4F8C-A969-D43516D8F09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1FA881-FD07-4F8C-A969-D43516D8F09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1FA881-FD07-4F8C-A969-D43516D8F09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4DD77F-A8EE-423E-83B7-500DC24BF57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4DD77F-A8EE-423E-83B7-500DC24BF57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4DD77F-A8EE-423E-83B7-500DC24BF57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4DD77F-A8EE-423E-83B7-500DC24BF57A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
