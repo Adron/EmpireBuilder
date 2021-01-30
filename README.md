@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Empire Builder 🚆
 
-You can use the [editor on GitHub](https://github.com/Adron/EmpireBuilder/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This project has been built to provide an cross-platform graphical interface to the rail logistics database that I've built. To use this client for the database, you'll need to sign up at XXXXXX site for an account and apply for administrator access. This currently means ping Adron (i.e. that's me, the originator of this project) and we'll get your FRN credentials certified and pending you know your routes and power units, I'll add ya ASAP to the administrator list! 👍'
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Architecture of Application 💫
 
-### Markdown
+This applciation is designed and built around the Model View ViewModel (MVVM) design pattern.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+More details to come.
 
-```markdown
-Syntax highlighted code block
+## Installation ▶
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adron/EmpireBuilder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To install this application...  these instructions are TBD. 😁
